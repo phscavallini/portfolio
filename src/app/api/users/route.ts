@@ -16,5 +16,3 @@ export async function GET() {
     return Response.json({
     data: users });
 }
-
-// pepi e lindo
