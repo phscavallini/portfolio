@@ -14,5 +14,7 @@ export async function GET() {
         }
     ];
     return Response.json({
-        data: users });
+    data: users });
 }
+
+// pepi e lindo
